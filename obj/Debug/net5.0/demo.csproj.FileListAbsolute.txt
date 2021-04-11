@@ -1,0 +1,17 @@
+C:\Users\Valen\Desktop\catrpg-example\environment\game.exe.config
+C:\Users\Valen\Desktop\catrpg-example\environment\game.exe
+C:\Users\Valen\Desktop\catrpg-example\environment\game.pdb
+C:\Users\Valen\Desktop\catrpg-example\environment\NVorbis.dll
+C:\Users\Valen\Desktop\catrpg-example\environment\OpenTK.dll
+C:\Users\Valen\Desktop\catrpg-example\environment\System.Buffers.dll
+C:\Users\Valen\Desktop\catrpg-example\environment\System.Memory.dll
+C:\Users\Valen\Desktop\catrpg-example\environment\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Valen\Desktop\catrpg-example\environment\System.ValueTuple.dll
+C:\Users\Valen\Desktop\catrpg-example\environment\CatRPG.dll
+C:\Users\Valen\Desktop\catrpg-example\obj\Debug\net5.0\demo.csprojAssemblyReference.cache
+C:\Users\Valen\Desktop\catrpg-example\obj\Debug\net5.0\demo.AssemblyInfoInputs.cache
+C:\Users\Valen\Desktop\catrpg-example\obj\Debug\net5.0\demo.AssemblyInfo.cs
+C:\Users\Valen\Desktop\catrpg-example\obj\Debug\net5.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\catrpg-example\obj\Debug\net5.0\demo.csproj.CopyComplete
+C:\Users\Valen\Desktop\catrpg-example\obj\Debug\net5.0\game.exe
+C:\Users\Valen\Desktop\catrpg-example\obj\Debug\net5.0\game.pdb

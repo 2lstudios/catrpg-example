@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Valen\\Desktop\\catrpg-example\\demo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Valen\\Desktop\\catrpg-example\\demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Valen\\Desktop\\catrpg-example\\demo.csproj",
+        "projectName": "game",
+        "projectPath": "C:\\Users\\Valen\\Desktop\\catrpg-example\\demo.csproj",
+        "packagesPath": "C:\\Users\\Valen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Valen\\Desktop\\catrpg-example\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Valen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "NVorbis": {
+              "target": "Package",
+              "version": "[0.10.1, )"
+            },
+            "opentk": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
